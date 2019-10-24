@@ -1,11 +1,11 @@
-yes this project will show the render on a webpage (this is a title) ##yuh##
+B) yes this project will show the render on a webpage (this is a title)
 ___________
 
  this is paragraph text 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut sem viverra aliquet eget sit amet tellus cras. Urna neque viverra justo nec ultrices dui. Vitae et leo duis ut diam quam nulla porttitor. Nec sagittis aliquam malesuada bibendum. Mauris vitae ultricies leo integer. Sit amet cursus sit amet dictum sit amet justo. Mi sit amet mauris commodo quis. Viverra nam libero justo laoreet sit. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. Morbi quis commodo odio aenean sed adipiscing diam donec adipiscing. Tellus mauris a diam maecenas sed enim ut. Ridiculus mus mauris vitae ultricies leo.
 
-Two spaces to get another line ****;)
+Two spaces to get another line ;)
 
 #Level 1 Header
 
